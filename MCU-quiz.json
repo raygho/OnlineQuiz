@@ -1,0 +1,27 @@
+{   
+    "quizTitle": "MCU Pop Quiz",
+    "topicID": "MCU",
+    "questions": [
+      {"id": "1", "question": "Who is the alter ego of Iron Man?", "options": ["Bruce Banner", "Peter Parker", "Tony Stark", "Steve Rogers"], "answer": "Tony Stark"},
+      {"id": "2", "question": "Which actor portrays Captain America in the MCU?", "options": ["Chris Pratt", "Chris Hemsworth", "Chris Evans", "Chris Pine"], "answer": "Chris Evans"},
+      {"id": "3", "question": "What is Thor's weapon of choice?", "options": ["Axe", "Sword", "Hammer", "Staff"], "answer": "Hammer"},
+      {"id": "4", "question": "Who is the main antagonist in 'Avengers: Infinity War'?", "options": ["Loki", "Thanos", "Ultron", "Red Skull"], "answer": "Thanos"},
+      {"id": "5", "question": "Which Avenger is known for his incredible strength and green appearance?", "options": ["Hawkeye", "Black Panther", "Hulk", "War Machine"], "answer": "Hulk"},
+      {"id": "6", "question": "What is the real name of Black Widow?", "options": ["Natasha Romanoff", "Wanda Maximoff", "Carol Danvers", "Hope Van Dyne"], "answer": "Natasha Romanoff"},
+      {"id": "7", "question": "Who is the primary villain in 'Black Panther'?", "options": ["Erik Killmonger", "Ulysses Klaue", "Thanos", "Loki"], "answer": "Erik Killmonger"},
+      {"id": "8", "question": "Which MCU character is known as the Sorcerer Supreme?", "options": ["Iron Man", "Doctor Strange", "Wolverine", "Vision"], "answer": "Doctor Strange"},
+      {"id": "9", "question": "Who is the adoptive father of Loki?", "options": ["Odin", "Frigga", "Heimdall", "Thor"], "answer": "Odin"},
+      {"id": "10", "question": "What is the name of Tony Stark's AI assistant?", "options": ["J.A.R.V.I.S.", "C.A.R.L.", "D.U.M.E.", "B.E.T.A."], "answer": "J.A.R.V.I.S."},
+      {"id": "11", "question": "Who is the arch-nemesis of Spider-Man?", "options": ["Green Goblin", "Venom", "Doc Ock", "Sandman"], "answer": "Green Goblin"},
+      {"id": "12", "question": "Which villain is responsible for creating Ultron in the MCU?", "options": ["Loki", "Thanos", "The Mandarin", "Tony Stark"], "answer": "Tony Stark"},
+      {"id": "13", "question": "Who plays the role of Thanos in the MCU?", "options": ["Josh Brolin", "James Spader", "Tom Hiddleston", "Mark Ruffalo"], "answer": "Josh Brolin"},
+      {"id": "14", "question": "What is the name of Peter Parker's best friend?", "options": ["Ned Leeds", "Flash Thompson", "Harry Osborn", "Gwen Stacy"], "answer": "Ned Leeds"},
+      {"id": "15", "question": "Who is the leader of the Guardians of the Galaxy?", "options": ["Rocket", "Groot", "Star-Lord", "Gamora"], "answer": "Star-Lord"},
+      {"id": "16", "question": "What is the name of the villainous organization led by Red Skull in the MCU?", "options": ["AIM", "HYDRA", "S.H.I.E.L.D.", "W.H.O."], "answer": "HYDRA"},
+      {"id": "17", "question": "Which character becomes the Winter Soldier?", "options": ["Sam Wilson", "Clint Barton", "Bucky Barnes", "James Rhodes"], "answer": "Bucky Barnes"},
+      {"id": "18", "question": "Who is the main antagonist in 'Guardians of the Galaxy'?", "options": ["Ronan the Accuser", "The Collector", "Yondu Udonta", "Nebula"], "answer": "Ronan the Accuser"},
+      {"id": "19", "question": "What is the real name of the villain Hela in 'Thor: Ragnarok'?", "options": ["Laufey", "Surtur", "Frigga", "Helena"], "answer": "Helena"},
+      {"id": "20", "question": "Who is the father of Peter Quill (Star-Lord)?", "options": ["Ego", "Yondu", "Ronan", "Thanos"], "answer": "Ego"}
+    ]
+}
+  
