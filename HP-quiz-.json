@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "id": "HP1",
+        "question": "Who is Harry Potter's godfather?",
+        "options": ["Severus Snape", "Remus Lupin", "Sirius Black", "James Potter"],
+        "answer": "Sirius Black"
+      },
+      {
+        "id": "HP2",
+        "question": "What year was the first film, Harry Potter and the Philosopher's Stone, released in cinemas?",
+        "options": ["2005", "1999", "2001", "2003"],
+        "answer": "2001"
+      },
+      {
+        "id": "HP3",
+        "question": "Which future Batman actor played Triwizard Tournament entrant Cedric Diggory?",
+        "options": ["Ben Affleck", "Robert Pattinson", "Christian Bale", "Michael Keaton"],
+        "answer": "Robert Pattinson"
+      },
+      {
+        "id": "HP4",
+        "question": "Who was Minister for Magic during the first five films?",
+        "options": ["Rufus Scrimgeour", "Arthur Weasley", "Cornelius Fudge", "Kingsley Shacklebolt"],
+        "answer": "Cornelius Fudge"
+      },
+      {
+        "id": "HP5",
+        "question": "What was the name of the Hippogriff Harry and Hermione save from execution?",
+        "options": ["Fawkes", "Norbert", "Buckbeak", "Aragog"],
+        "answer": "Buckbeak"
+      },
+      {
+        "id": "HP6",
+        "question": "On which floor of Hogwarts was the forbidden corridor in The Philosopher's Stone?",
+        "options": ["Fourth floor", "Fifth floor", "Third floor", "Second floor"],
+        "answer": "Third floor"
+      },
+      {
+        "id": "HP7",
+        "question": "What was the name of the tree Harry and Ron crashed their car into?",
+        "options": ["Forbidden Forest Oak", "Elder Tree", "Whomping Willow", "Giant Sequoia"],
+        "answer": "Whomping Willow"
+      },
+      {
+        "id": "HP8",
+        "question": "Who did Killing Eve star Fiona Shaw play in the Harry Potter films?",
+        "options": ["Bellatrix Lestrange", "Molly Weasley", "Petunia Dursley", "Narcissa Malfoy"],
+        "answer": "Petunia Dursley"
+      },
+      {
+        "id": "HP9",
+        "question": "What village can Hogwarts students visit from their third year?",
+        "options": ["Diagon Alley", "Little Whinging", "Hogsmeade", "Godric's Hollow"],
+        "answer": "Hogsmeade"
+      },
+      {
+        "id": "HP10",
+        "question": "Who was Hermione's date at the Yule Ball?",
+        "options": ["Cedric Diggory", "Draco Malfoy", "Ron Weasley", "Viktor Krum"],
+        "answer": "Viktor Krum"
+      },
+      {
+        "id": "HP11",
+        "question": "What is the name of Voldemort's pet snake?",
+        "options": ["Nagini", "Slytherin", "Naginiya", "Basilisk"],
+        "answer": "Nagini"
+      },
+      {
+        "id": "HP12",
+        "question": "What flavour are Bertie Bott's beans?",
+        "options": ["Chocolate", "Every Flavour", "Lemon", "Strawberry"],
+        "answer": "Every Flavour"
+      },
+      {
+        "id": "HP13",
+        "question": "Which future Doctor Who played Barty Crouch Jr. in The Goblet of Fire?",
+        "options": ["Matt Smith", "David Tennant", "Peter Capaldi", "Jodie Whittaker"],
+        "answer": "David Tennant"
+      },
+      {
+        "id": "HP14",
+        "question": "What is the name of the building said to be the most haunted in Britain?",
+        "options": ["Hogwarts Castle", "Tower of London", "Shrieking Shack", "Buckingham Palace"],
+        "answer": "Shrieking Shack"
+      },
+      {
+        "id": "HP15",
+        "question": "What animal represents Hufflepuff house?",
+        "options": ["Eagle", "Badger", "Serpent", "Lion"],
+        "answer": "Badger"
+      },
+      {
+        "id": "HP16",
+        "question": "What is the name of Harry's mother?",
+        "options": ["Molly", "Martha", "Petunia", "Lily"],
+        "answer": "Lily"
+      },
+      {
+        "id": "HP17",
+        "question": "Which actor replaced Richard Harris as Dumbledore from the Prisoner of Azkaban onwards?",
+        "options": ["Alan Rickman", "Maggie Smith", "Michael Gambon", "Ian McKellen"],
+        "answer": "Michael Gambon"
+      },
+      {
+        "id": "HP18",
+        "question": "Which Weasley brother gets married in the Deathly Hallows Part 1?",
+        "options": ["Charlie Weasley", "Percy Weasley", "Bill Weasley", "Fred Weasley"],
+        "answer": "Bill Weasley"
+      },
+      {
+        "id": "HP19",
+        "question": "Which class has a different teacher every year?",
+        "options": ["Potions", "Defence Against the Dark Arts", "Herbology", "Transfiguration"],
+        "answer": "Defence Against the Dark Arts"
+      },
+      {
+        "id": "HP20",
+        "question": "Who did Game of Thrones actress Natalia Tena play in the Harry Potter films?",
+        "options": ["Cho Chang", "Luna Lovegood", "Nymphadora Tonks", "Ginny Weasley"],
+        "answer": "Nymphadora Tonks"
+      }
+    ]
+  }
+  
